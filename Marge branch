@@ -1,0 +1,7 @@
+2023-03-14 11:14:14.326 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- c:\Users\acer\ruang-belajar\index.html [655ms]
+2023-03-14 11:15:46.812 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- c:\Users\acer\ruang-belajar\pages\Merge.branch [810ms]
+2023-03-14 11:15:46.839 [info] > git ls-files --stage -- C:\Users\acer\ruang-belajar\pages\Merge.branch [428ms]
+2023-03-14 11:15:46.859 [info] > git show --textconv :pages/Merge.branch [470ms]
+2023-03-14 11:15:47.047 [info] > git check-ignore -v -z --stdin [574ms]
+2023-03-14 11:17:53.250 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- c:\Users\acer\ruang-belajar\pages\dashboard.html [495ms]
+2023-03-14 11:17:57.399 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- c:\Users\acer\ruang-belajar\pages\Merge.branch [211ms]
